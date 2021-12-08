@@ -1,0 +1,31 @@
+items & frequency :
+I1 6
+I2 7
+I3 6
+I4 2
+I5 2
+Conditional Pattern Base 
+I1->I2 	-	4
+I3->I1 	-	2
+I3->I2 I1 	-	2
+I3->I2 	-	2
+I4->I2 I1 	-	1
+I4->I2 	-	1
+I5->I2 I1 I3 	-	1
+I5->I2 I1 	-	1
+Conditional FP TREE :
+I1->I2	-	4
+I3->I1	-	4
+I3->I2	-	4
+I4->I2	-	2
+I5->I1	-	2
+I5->I2	-	2
+Frequent patterns Generated 
+I1->I2 I1 	-	4
+I3->I1 I3 	-	4
+I3->I1 I2 I3 	-	4
+I3->I2 I3 	-	4
+I4->I2 I4 	-	2
+I5->I1 I5 	-	2
+I5->I1 I2 I5 	-	2
+I5->I2 I5 	-	2

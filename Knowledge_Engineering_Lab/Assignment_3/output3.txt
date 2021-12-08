@@ -1,0 +1,119 @@
+Generated transaction database : 
+T1
+I1 I10 I2 I5 I6 I9 
+T10
+I1 I10 I2 I5 I7 I8 I9 
+T2
+I5 I7 
+T3
+I5 
+T4
+I10 I5 I7 I8 I9 
+T5
+I1 I10 I2 I3 I5 I6 I8 
+T6
+I3 I8 
+T7
+I3 I4 I7 
+T8
+I7 
+T9
+I6 I9 
+
+
+L1 Itemsets:
+I1 with support of 3
+I10 with support of 4
+I2 with support of 3
+I3 with support of 3
+I5 with support of 6
+I6 with support of 3
+I7 with support of 5
+I8 with support of 4
+I9 with support of 4
+
+L2 Itemsets:
+I1 I10 with support of 3
+I1 I2 with support of 3
+I1 I5 with support of 3
+I1 I6 with support of 2
+I1 I8 with support of 2
+I1 I9 with support of 2
+I10 I2 with support of 3
+I10 I5 with support of 4
+I10 I6 with support of 2
+I10 I7 with support of 2
+I10 I8 with support of 3
+I10 I9 with support of 3
+I2 I5 with support of 3
+I2 I6 with support of 2
+I2 I8 with support of 2
+I2 I9 with support of 2
+I3 I8 with support of 2
+I5 I6 with support of 2
+I5 I7 with support of 3
+I5 I8 with support of 3
+I5 I9 with support of 3
+I6 I9 with support of 2
+I7 I8 with support of 2
+I7 I9 with support of 2
+I8 I9 with support of 2
+
+L3 Itemsets:
+I1 I10 I2 with support of 3
+I1 I10 I5 with support of 3
+I1 I10 I6 with support of 2
+I1 I10 I8 with support of 2
+I1 I10 I9 with support of 2
+I1 I2 I5 with support of 3
+I1 I2 I6 with support of 2
+I1 I2 I8 with support of 2
+I1 I2 I9 with support of 2
+I1 I5 I6 with support of 2
+I1 I5 I8 with support of 2
+I1 I5 I9 with support of 2
+I10 I2 I5 with support of 3
+I10 I2 I6 with support of 2
+I10 I2 I8 with support of 2
+I10 I2 I9 with support of 2
+I10 I5 I6 with support of 2
+I10 I5 I7 with support of 2
+I10 I5 I8 with support of 3
+I10 I5 I9 with support of 3
+I10 I7 I8 with support of 2
+I10 I7 I9 with support of 2
+I10 I8 I9 with support of 2
+I2 I5 I6 with support of 2
+I2 I5 I8 with support of 2
+I2 I5 I9 with support of 2
+I5 I7 I8 with support of 2
+I5 I7 I9 with support of 2
+I5 I8 I9 with support of 2
+I7 I8 I9 with support of 2
+
+L4 Itemsets:
+I1 I10 I2 I5 with support of 3
+I1 I10 I2 I6 with support of 2
+I1 I10 I2 I8 with support of 2
+I1 I10 I2 I9 with support of 2
+I1 I10 I5 I6 with support of 2
+I1 I10 I5 I8 with support of 2
+I1 I10 I5 I9 with support of 2
+I1 I2 I5 I6 with support of 2
+I1 I2 I5 I8 with support of 2
+I1 I2 I5 I9 with support of 2
+I10 I2 I5 I6 with support of 2
+I10 I2 I5 I8 with support of 2
+I10 I2 I5 I9 with support of 2
+I10 I5 I7 I8 with support of 2
+I10 I5 I7 I9 with support of 2
+I10 I5 I8 I9 with support of 2
+I10 I7 I8 I9 with support of 2
+I5 I7 I8 I9 with support of 2
+
+L5 Itemsets:
+I1 I10 I2 I5 I6 with support of 2
+I1 I10 I2 I5 I8 with support of 2
+I1 I10 I2 I5 I9 with support of 2
+I10 I5 I7 I8 I9 with support of 2
+

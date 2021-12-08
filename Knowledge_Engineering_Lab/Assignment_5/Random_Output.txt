@@ -1,0 +1,35 @@
+T1 l3 l1 l1 l4 l5 l1 l5 l1 
+T2 l3 l1 l2 l2 l5 
+T3 l3 l4 
+T4 l4 l4 l1 l5 
+T5 l3 l3 l2 l5 l5 l5 l3 
+T6 l3 l2 
+T7 l5 l5 l4 l4 l4 l5 l4 
+T8 l1 l2 l5 l3 l4 l5 l3 l4 l2 
+T9 l4 l2 
+T10 l5 l4 l5 l3 l2 l3 
+T11 l5 l1 
+T12 l2 l4 l5 
+T13 l2 l5 l2 l5 
+T14 l2 l1 
+T15 l5 l3 l1 l2 l2 l5 l3 l4 l4 l5 
+T16 l1 l4 l3 l5 
+T17 l2 l1 l1 l2 l2 l5 l5 
+T18 l2 
+T19 l3 l4 l4 l2 l2 l1 l2 l3 
+T20 l1 l3 l3 
+T21 l1 l3 l3 l2 l5 l3 l5 
+T22 l5 
+T23 l4 l5 l5 l5 l2 l4 l2 l1 l2 l2 
+T24 l1 l1 l1 
+T25 l3 l3 l5 l3 l1 l3 l5 l5 l5 l3 
+T26 l3 l3 l4 
+T27 l3 l1 l3 l2 l4 l3 
+T28 l2 
+T29 l2 l2 l3 l5 
+T30 l5 l5 l3 l4 l5 l1 l4 l3 l2 
+T31 l3 l3 l1 l4 l5 
+T32 l4 l1 l1 l4 l1 
+T33 l4 l2 l4 l3 
+T34 l4 l4 l5 l5 l5 l5 l2 l1 
+T35 l1 l5 l2 l4 l5 l5 l4 

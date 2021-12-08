@@ -1,0 +1,11 @@
+Complexity Analysis:
+
+  Space Complexity:
+    O(2^m + t^m)
+      -> m = transaction size
+      -> t = no. of transactions
+  
+  Time Complexity:
+    O(M*(4^M + (2^M)*(T*M*logM)))
+      -> m = transaction size
+      -> t = no. of transactions

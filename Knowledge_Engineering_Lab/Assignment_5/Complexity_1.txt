@@ -1,0 +1,17 @@
+Space Complexity:
+  n = size of file
+  m = lines in the file
+  Saving the File = O(3*n)
+  Opening the file = O(n)
+  Saving the data into temp Variables = O(9*m + constant_for_temp_variables)
+
+Time Complexity:
+  n = size of file
+  m = size of vector = lines in a file
+  reading the file and output the file  = O(4*n)
+  N1- method:
+    O(12*m)
+  N2-method:
+    O(9*m+3)
+  N3-method:
+    O(3*(log(data_len_in_vector)+4*m))

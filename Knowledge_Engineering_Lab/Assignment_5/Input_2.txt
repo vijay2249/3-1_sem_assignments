@@ -1,0 +1,9 @@
+T1 l1 l2 l5
+T2 l2 l4
+T3 l2 l3
+T4 l1 l2 l4
+T5 l1 l3
+T6 l2 l3
+T7 l1 l3
+T8 l1 l2 l3 l5
+T9 l1 l2 l3

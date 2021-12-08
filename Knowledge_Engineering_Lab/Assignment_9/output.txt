@@ -1,0 +1,33 @@
+Given Training sample data:
+RID1	1 youth high no fair no 
+RID2	2 youth high no excellent no 
+RID3	3 middle_aged high no fair yes 
+RID4	4 senior medium no fair yes 
+RID5	5 senior low yes fair yes 
+RID6	6 senior low yes excellent no 
+RID7	7 middle_aged low yes excellent yes 
+RID8	8 youth medium no fair no 
+RID9	9 youth low yes fair yes 
+RID10	10 senior medium yes fair yes 
+RID11	11 youth medium yes excellent yes 
+RID12	12 middle_aged medium no excellent yes 
+RID13	13 middle_aged high yes fair yes 
+RID14	14 senior medium no excellent no 
+
+
+Created Decision Tree according to splits in preorder:-
+[NODE_NAME->(age) its branches:{branch1->(youth)->[NODE_NAME->(student) its branches:{branch1->(yes)->[NODE_NAME->(Class:buys_computer) its branches:{}],branch2->(no)->[NODE_NAME->(Class:buys_computer) its branches:{}],}],branch2->(middle_aged)->[NODE_NAME->(Class:buys_computer) its branches:{}],branch3->(senior)->[NODE_NAME->(credit_rating) its branches:{branch1->(fair)->[NODE_NAME->(Class:buys_computer) its branches:{}],branch2->(excellent)->[NODE_NAME->(Class:buys_computer) its branches:{}],}],}]
+
+Given testing set and their estimated class label 
+	Estimated_Class 
+senior	low	no	fair	no	yes
+youth	low	yes	excellent	yes	yes
+middle_aged	low	yes	fair	yes	yes
+
+Given predict sample and their predicted class label:
+yes	 predicted_class 
+senior	high	yes	fair	yes
+youth	high	yes	fair	yes
+middle_aged	low	no	excellent	yes
+
+Testing_accuracy is:0.666667

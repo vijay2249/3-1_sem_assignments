@@ -1,0 +1,26 @@
+Complexity Analysis:
+
+n-> length of file(input file)
+
+Question-1:
+  Time Complexity: O(n)
+  Space Complexity: O(n)
+  For all three output files
+
+Question-2:
+  Time Complexity: 5*O(n) + O(nlogn) = max(O(n), O(n*logn))
+  Space Complexity: 
+    output file : 3*O(n)
+    Sorting : O(nlogn)
+
+Question-3:
+  Class list is done based of numbers in the range 5 like from 1-5 and 6-10 and 11-15 etc..
+  Space Complexity:
+    Reading file - O(3*n)
+    calculate mean for each class set - O(class_set_size*t) t-> avg size of data[i]
+    Output file - O(n)
+  
+  Time Complexity:
+    Reading - O(n)
+    calculate mean for each class set - O(class_set_size*t) t-> avg size of data[i]
+    Output file - O(n)

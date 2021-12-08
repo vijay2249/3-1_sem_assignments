@@ -1,0 +1,17 @@
+FREQUENT ITEMSETS: 
+1 itemset 
+{ T1 } - sup_count = 6
+{ T2 } - sup_count = 7
+{ T3 } - sup_count = 6
+{ T4 } - sup_count = 2
+{ T5 } - sup_count = 2
+2 itemset 
+{ T1 T2 } - sup_count = 4
+{ T1 T3 } - sup_count = 4
+{ T1 T5 } - sup_count = 2
+{ T2 T3 } - sup_count = 4
+{ T2 T4 } - sup_count = 2
+{ T2 T5 } - sup_count = 2
+3 itemset 
+{ T1 T2 T3 } - sup_count = 2
+{ T1 T2 T5 } - sup_count = 2

@@ -1,0 +1,37 @@
+for mimimum support value of 30 % 
+the cutoff value is : 10
+
+associations : 
+{l1,l4} -> {l5} confindence : 76.9231
+{l1} -> {l2} confindence : 41.3793
+{l1} -> {l3} confindence : 41.3793
+{l1} -> {l4} confindence : 44.8276
+{l1} -> {l5} confindence : 51.7241
+{l2} -> {l1} confindence : 35.2941
+{l2} -> {l3} confindence : 35.2941
+{l2} -> {l4} confindence : 35.2941
+{l2} -> {l5} confindence : 41.1765
+{l3} -> {l1} confindence : 32.4324
+{l3} -> {l2} confindence : 32.4324
+{l3} -> {l4} confindence : 32.4324
+{l3} -> {l5} confindence : 32.4324
+{l4} -> {l1} confindence : 39.3939
+{l4} -> {l2} confindence : 36.3636
+{l4} -> {l3} confindence : 36.3636
+{l4} -> {l5} confindence : 39.3939
+{l5} -> {l1,l4} confindence : 66.6667
+{l5} -> {l1} confindence : 32.6087
+{l5} -> {l2} confindence : 30.4348
+{l5} -> {l3} confindence : 26.087
+{l5} -> {l4} confindence : 28.2609
+
+for mimimum support value of 50 % 
+the cutoff value is : 17
+
+associations : 
+
+for mimimum support value of 70 % 
+the cutoff value is : 24
+
+associations : 
+

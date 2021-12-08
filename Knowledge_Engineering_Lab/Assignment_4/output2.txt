@@ -1,0 +1,30 @@
+Partition into Bin's
+Bin 1: 1 1 1 
+Bin 2: 2 2 4 
+Bin 3: 4 9 12 
+Bin 4: 12 16 18 
+Bin 5: 20 20 22 
+Bin 6: 23 23 24 
+Bin 7: 27 27 
+
+
+Smoothing by bin means
+Bin 1: 1 1 1 
+Bin 2: 2 2 2 
+Bin 3: 8 8 8 
+Bin 4: 15 15 15 
+Bin 5: 20 20 20 
+Bin 6: 23 23 23 
+Bin 7: 27 27 
+
+
+Smoothing by bin boundaries: 
+Bin 1: 1 1 1 
+Bin 2: 2 2 4 
+Bin 3: 4 12 12 
+Bin 4: 12 18 18 
+Bin 5: 20 20 22 
+Bin 6: 23 23 24 
+Bin 7: 27 27 
+
+17 24 3 6 13 24 6 25 17 29 21 7 13 21 20 9 5 1 2 12 

@@ -1,0 +1,8 @@
+Test samples:
+
+senior high yes fair : class is yes: buys computer
+
+youth high yes fair : class is yes: buys computer
+
+middle_aged low no excellent : class is yes: buys computer
+

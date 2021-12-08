@@ -1,0 +1,111 @@
+for mimimum support value of 30 % 
+the cutoff value is : 2
+C1
+l1 6
+l2 7
+l3 6
+l4 2
+l5 2
+C2
+l1 l2 4
+l1 l3 4
+l1 l4 1
+l1 l5 2
+l2 l3 4
+l2 l4 2
+l2 l5 2
+l3 l4 0
+l3 l5 1
+l4 l5 0
+C3
+l1 l2 l3 2
+l1 l2 l4 1
+l1 l2 l5 2
+l1 l3 l4 0
+l1 l3 l5 1
+l1 l4 l5 0
+l2 l3 l4 0
+l2 l3 l5 1
+l2 l4 l5 0
+l3 l4 l5 0
+C4
+l1 l2 l3 l4 0
+l1 l2 l3 l5 1
+l1 l2 l4 l5 0
+l1 l3 l4 l5 0
+l2 l3 l4 l5 0
+
+for mimimum support value of 50 % 
+the cutoff value is : 4
+C1
+l1 6
+l2 7
+l3 6
+l4 2
+l5 2
+C2
+l1 l2 4
+l1 l3 4
+l1 l4 1
+l1 l5 2
+l2 l3 4
+l2 l4 2
+l2 l5 2
+l3 l4 0
+l3 l5 1
+l4 l5 0
+C3
+l1 l2 l3 2
+l1 l2 l4 1
+l1 l2 l5 2
+l1 l3 l4 0
+l1 l3 l5 1
+l1 l4 l5 0
+l2 l3 l4 0
+l2 l3 l5 1
+l2 l4 l5 0
+l3 l4 l5 0
+C4
+l1 l2 l3 l4 0
+l1 l2 l3 l5 1
+l1 l2 l4 l5 0
+l1 l3 l4 l5 0
+l2 l3 l4 l5 0
+
+for mimimum support value of 70 % 
+the cutoff value is : 6
+C1
+l1 6
+l2 7
+l3 6
+l4 2
+l5 2
+C2
+l1 l2 4
+l1 l3 4
+l1 l4 1
+l1 l5 2
+l2 l3 4
+l2 l4 2
+l2 l5 2
+l3 l4 0
+l3 l5 1
+l4 l5 0
+C3
+l1 l2 l3 2
+l1 l2 l4 1
+l1 l2 l5 2
+l1 l3 l4 0
+l1 l3 l5 1
+l1 l4 l5 0
+l2 l3 l4 0
+l2 l3 l5 1
+l2 l4 l5 0
+l3 l4 l5 0
+C4
+l1 l2 l3 l4 0
+l1 l2 l3 l5 1
+l1 l2 l4 l5 0
+l1 l3 l4 l5 0
+l2 l3 l4 l5 0
+

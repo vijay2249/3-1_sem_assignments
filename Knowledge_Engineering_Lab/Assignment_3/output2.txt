@@ -1,0 +1,19 @@
+L1 Itemsets:
+I1 with support of 6
+I2 with support of 7
+I3 with support of 6
+I4 with support of 2
+I5 with support of 2
+
+L2 Itemsets:
+I1 I2 with support of 4
+I1 I3 with support of 4
+I1 I5 with support of 2
+I2 I3 with support of 4
+I2 I4 with support of 2
+I2 I5 with support of 2
+
+L3 Itemsets:
+I1 I2 I3 with support of 2
+I1 I2 I5 with support of 2
+
