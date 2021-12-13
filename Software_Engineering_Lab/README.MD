@@ -24,11 +24,11 @@
     It should not be copy paste from internet.
     It should not be same.
 
-## [Lab Assignment - 6](./Assignment_6)
+## Lab Assignment - 6
 
     Create SRS Document for your Software Project.
 
-## [Lab Assignment - 7](./Assignment_7)
+## Lab Assignment - 7
 
     How to calculate intensity of coupling in a software. Write a Program that Calculates the Intensity of Coupling.
 
@@ -38,6 +38,6 @@
     
     2. Prepare Document for Your Project and Calculate the FPM.
 
-## [Lab Assignment - 9](./Assignment_9)
+## Lab Assignment - 9
 
     Draw Use Case Diagram, Sequence Diagram, Collaboration Diagram, Class Diagram, State Chart Diagram, Activity Diagram and  Deployment Diagram for your Project 
